@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact)](https://github.com/Only-bottle/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Only-bottle&repo=github-readme-stats&theme=react)](https://github.com/Only-bottle/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Only-bottle&repo=github-readme-stats)](https://github.com/Only-bottle/github-readme-stats)
