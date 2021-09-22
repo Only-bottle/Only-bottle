@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Only bottle's Github stats](https://github-readme-stats.vercel.app/api?username=Only-bottle&theme=react&count_private=true)](https://github.com/Only-bottle/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact)](https://github.com/Only-bottle/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Only-bottle&repo=github-readme-stats&theme=react)](https://github.com/anuraghazra/github-readme-stats)
