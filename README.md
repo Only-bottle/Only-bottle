@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align=right>
-  ![GitHub followers](https://img.shields.io/github/followers/Only-bottle?style=social)
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Only-bottle?style=social)
 
 <!--
 **Only-bottle/Only-bottle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
