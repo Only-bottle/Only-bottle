@@ -34,5 +34,5 @@
   </a>
 </p>
 
-[![Only bottle's Github stats](https://github-readme-stats.vercel.app/api?username=Only-bottle&count_private=true&theme=react)](https://github.com/Only-bottle/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact&theme=react)](https://github.com/Only-bottle/github-readme-stats)
+[![Only bottle's Github stats](https://github-readme-stats.vercel.app/api?username=Only-bottle&count_private=true)](https://github.com/Only-bottle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact)](https://github.com/Only-bottle/github-readme-stats)
