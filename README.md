@@ -6,6 +6,7 @@
 </div>
 
 ### Hi there 👋, I'm Only-Bottle
+#### I'm a developer who wants to develop AI that can give convenience to our lives.
 
 <div align=center>
   
