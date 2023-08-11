@@ -23,5 +23,5 @@ I'm a developer who wants to develop service that can give convenience to our li
 - Working at [Nota Inc.](https://nota.ai) (2019.12.23 ~ )
 
 
-[![Only bottle's Github stats](https://github-readme-stats.vercel.app/api?username=Only-bottle&count_private=true)](https://github.com/Only-bottle/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact)](https://github.com/Only-bottle/github-readme-stats)
+[![Only bottle's Github stats](https://github-readme-stats.vercel.app/api?username=Only-bottle&contribs&count_private=true&show_icons=true&&theme=shadow_blue)](https://github.com/Only-bottle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Only-bottle&layout=compact&hide=jupyter%20notebook&&theme=shadow_blue)](https://github.com/Only-bottle/github-readme-stats)
