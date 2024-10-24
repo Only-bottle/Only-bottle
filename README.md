@@ -17,7 +17,7 @@ I'm a developer who wants to develop service that can give convenience to our li
 
 ### 🌟 Interests
 - Backend API Development
-- AI Model Compression & Computer Vision
+- AI Model Compression
 
 ### 👨‍💻 Work Experience
 - Working at [Nota Inc.](https://nota.ai) (2019.12.23 ~ )
