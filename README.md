@@ -14,7 +14,7 @@
 Product engineer at **[Nota AI](https://nota.ai)** (since 2019.12), building **NetsPresso** — a platform that compresses, quantizes and deploys AI models to edge devices.
 I like building services that make everyday work a little more convenient.
 
-- 🛠️ Backend APIs, SDKs & platform infrastructure for AI model optimization
+- 🛠️ Shipping product end-to-end — backend APIs, SDK & CLI, web features and infra
 - 🤖 Interested in Vision & LLM on-device inference
 - 🌏 Seoul, Korea
 
