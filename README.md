@@ -24,14 +24,6 @@ I like building services that make everyday work a little more convenient.
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,docker,kubernetes,githubactions,pytorch,ts,react,kotlin&perline=12" />
 </p>
 
-### 📌 Open Source
-
-| Project | Description |
-| --- | --- |
-| [**PyNetsPresso**](https://github.com/Nota-NetsPresso/PyNetsPresso) | Official NetsPresso Python SDK — API key login, profiler/simulator modules, graph optimization, MkDocs docs |
-| [**netspresso-training-studio**](https://github.com/Nota-NetsPresso/netspresso-training-studio) | Training, evaluation & compression workflow for NetsPresso-compatible models |
-| [**ga-event-toolkit**](https://github.com/Only-bottle/ga-event-toolkit) | Google Analytics 4 event tracker for Python — decorators, background processing, GDPR awareness |
-
 ### 🐾 My Farm
 
 <a href="https://github.com/devxb/gitanimals">
