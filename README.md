@@ -15,7 +15,7 @@ Product engineer at **[Nota AI](https://nota.ai)** (since 2019.12), building **N
 I like building services that make everyday work a little more convenient.
 
 - 🛠️ Shipping product end-to-end — backend APIs, SDK & CLI, web features and infra
-- 🤖 Interested in Vision & LLM on-device inference
+- 🤖 Into on-device LLMs, model compression & quantization, and AI-agent-driven development
 - 🌏 Seoul, Korea
 
 ### 🧰 Tech Stack
